@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #edf5e1;
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: #edf5e1;
+}
+.viri{
+    text-decoration: none;
+    font-size: 40px;
+    color: #379683;
+}
+
+.slike{
+    width: 100%;
+    height: 100%;
+    box-shadow: 1px 5px 27px 5px rgba(0,0,0,0.55);
+}
